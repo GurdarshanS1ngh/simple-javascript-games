@@ -1,2 +1,17 @@
-# simple-javascript-games
-A collection of fun and interactive JavaScript-based games including classic arcade-style, puzzle, and casual games. Built using vanilla JavaScript, HTML5, and CSS3.
+# 🎮 Simple JavaScript Games
+
+A collection of **simple but fun games** built using **HTML, CSS, and Vanilla JavaScript**.  
+These games are lightweight, responsive, and can run directly in the browser.
+
+## 🕹️ Games Included
+
+- **2D Mario Game** 🎯
+- **Color Game** 🎨
+- **Dice Game** 🎲
+- **Insect Catch Game** 🐞
+- **Snake Game** 🐍
+- **Snakes and Ladders** 🪜🐍
+- **Tetris** 🧩
+- **The Simon Game** 🔵🟢🔴🟡
+- **Whac-A-Mole** 🐹
+- **Pixi.js Game (Canvas based)** 🎭
